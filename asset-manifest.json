@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fb5d589.css",
+    "main.js": "/static/js/main.04f46d03.js",
+    "static/js/453.21d131d8.chunk.js": "/static/js/453.21d131d8.chunk.js",
+    "static/media/Models=Setting, Size=24, Types=Outline.svg": "/static/media/Models=Setting, Size=24, Types=Outline.6855336d413753e975a039828aed92b2.svg",
+    "static/media/Models=Medium Volume, Size=24, Types=Outline.svg": "/static/media/Models=Medium Volume, Size=24, Types=Outline.cddb72ed00a24997a0087ae0a5636183.svg",
+    "static/media/Models=approve chat, Size=24, Types=Outline.svg": "/static/media/Models=approve chat, Size=24, Types=Outline.313151287d039d9ed3ba2287a1d71b02.svg",
+    "static/media/Models=Bell, Size=24, Types=Outline.svg": "/static/media/Models=Bell, Size=24, Types=Outline.3c742f193224e1f7b4f6f448942934d0.svg",
+    "static/media/Models=image sending via chat, Size=24, Types=Outline.svg": "/static/media/Models=image sending via chat, Size=24, Types=Outline.9f4403bbcf3d45da39f97b5283371baf.svg",
+    "static/media/Models=text fields, Size=24, Types=Outline.svg": "/static/media/Models=text fields, Size=24, Types=Outline.981eadd3fa6e4aa17cb4c493de2c1b57.svg",
+    "index.html": "/index.html",
+    "main.7fb5d589.css.map": "/static/css/main.7fb5d589.css.map",
+    "main.04f46d03.js.map": "/static/js/main.04f46d03.js.map",
+    "453.21d131d8.chunk.js.map": "/static/js/453.21d131d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb5d589.css",
+    "static/js/main.04f46d03.js"
+  ]
+}
