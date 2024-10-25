@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c9edd8c.css",
-    "main.js": "/static/js/main.82686982.js",
+    "main.js": "/static/js/main.085d4092.js",
     "static/js/453.21d131d8.chunk.js": "/static/js/453.21d131d8.chunk.js",
     "static/media/Models=Setting, Size=24, Types=Outline.svg": "/static/media/Models=Setting, Size=24, Types=Outline.1d378da3f9aa4536e919bb3d14625b24.svg",
     "static/media/Models=Medium Volume, Size=24, Types=Outline.svg": "/static/media/Models=Medium Volume, Size=24, Types=Outline.c8247ce041cca656cb08e242ef20a109.svg",
@@ -14,11 +14,11 @@
     "static/media/Models=record-audio, Size=24, Types=Outline.svg": "/static/media/Models=record-audio, Size=24, Types=Outline.bb2e4ca7eb3f3563a5df363014ee20a7.svg",
     "static/media/Models=Stop, Size=24, Types=Outline.svg": "/static/media/Models=Stop, Size=24, Types=Outline.888a37fc849b8726ab19e4ae91debb59.svg",
     "main.7c9edd8c.css.map": "/static/css/main.7c9edd8c.css.map",
-    "main.82686982.js.map": "/static/js/main.82686982.js.map",
+    "main.085d4092.js.map": "/static/js/main.085d4092.js.map",
     "453.21d131d8.chunk.js.map": "/static/js/453.21d131d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c9edd8c.css",
-    "static/js/main.82686982.js"
+    "static/js/main.085d4092.js"
   ]
 }
