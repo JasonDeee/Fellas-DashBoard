@@ -267,7 +267,7 @@ audio {
 }
 
 .header {
-  padding: 24px 64px;
+  padding: 16px 64px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -307,7 +307,11 @@ audio {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  gap: 24px;
+  gap: 4px;
+}
+
+.header-right button {
+  padding: 0.75rem 1rem;
 }
 
 .two-column-layout {
@@ -409,6 +413,15 @@ audio {
 .two-column-layout .left-column #record-button.Active:hover {
   background: rgba(0, 0, 0, 0.38);
   background-color: #e72166;
+}
+
+.two-column-layout .left-column #record-button.OnCalling {
+  background: #0c1136;
+  border-color: #7081ff;
+}
+
+.two-column-layout .left-column #record-button.OnCalling:hover {
+  background: #7081ff;
 }
 
 .two-column-layout .right-column {
@@ -720,4 +733,43 @@ audio {
 
 #inputArea #sendButton:hover {
   background: #9e0e40 !important;
+}
+
+.TextToSpeech_Downloader {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  max-width: 62vw;
+  position: relative;
+}
+
+.TextToSpeech_Downloader textarea {
+  width: 62vw;
+  outline: none;
+  border: none;
+  border-radius: 32px;
+  background-color: #ffffff;
+  padding: 16px !important;
+  resize: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 62vh;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.TextToSpeech_Downloader textarea::-webkit-scrollbar {
+  display: none;
 }
