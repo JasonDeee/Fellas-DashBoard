@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e62e803b.css",
-    "main.js": "/static/js/main.2d89d939.js",
-    "static/js/453.21d131d8.chunk.js": "/static/js/453.21d131d8.chunk.js",
+    "main.css": "/static/css/main.280cdc2a.css",
+    "main.js": "/static/js/main.84f92a91.js",
+    "static/js/453.5313e34f.chunk.js": "/static/js/453.5313e34f.chunk.js",
     "static/media/Models=Setting, Size=24, Types=Outline.svg": "/static/media/Models=Setting, Size=24, Types=Outline.6855336d413753e975a039828aed92b2.svg",
     "static/media/Models=Medium Volume, Size=24, Types=Outline.svg": "/static/media/Models=Medium Volume, Size=24, Types=Outline.cddb72ed00a24997a0087ae0a5636183.svg",
-    "static/media/Models=approve chat, Size=24, Types=Outline.svg": "/static/media/Models=approve chat, Size=24, Types=Outline.313151287d039d9ed3ba2287a1d71b02.svg",
     "static/media/Models=pointer, Size=24, Types=Outline.svg": "/static/media/Models=pointer, Size=24, Types=Outline.633b986e17fdf3048e33efc0ddadcbe3.svg",
     "static/media/Models=Bell, Size=24, Types=Outline.svg": "/static/media/Models=Bell, Size=24, Types=Outline.3c742f193224e1f7b4f6f448942934d0.svg",
     "static/media/Models=image sending via chat, Size=24, Types=Outline.svg": "/static/media/Models=image sending via chat, Size=24, Types=Outline.9f4403bbcf3d45da39f97b5283371baf.svg",
     "static/media/Models=text fields, Size=24, Types=Outline.svg": "/static/media/Models=text fields, Size=24, Types=Outline.981eadd3fa6e4aa17cb4c493de2c1b57.svg",
     "index.html": "/index.html",
-    "static/media/Models=record-audio, Size=24, Types=Outline.svg": "/static/media/Models=record-audio, Size=24, Types=Outline.e38cd76cc5e01b58fcd4d6a0f7fd7f79.svg",
-    "static/media/Models=Stop, Size=24, Types=Outline.svg": "/static/media/Models=Stop, Size=24, Types=Outline.1d6c08cf5f40c55b251f9cbe3fadd602.svg",
-    "main.e62e803b.css.map": "/static/css/main.e62e803b.css.map",
-    "main.2d89d939.js.map": "/static/js/main.2d89d939.js.map",
-    "453.21d131d8.chunk.js.map": "/static/js/453.21d131d8.chunk.js.map"
+    "main.280cdc2a.css.map": "/static/css/main.280cdc2a.css.map",
+    "main.84f92a91.js.map": "/static/js/main.84f92a91.js.map",
+    "453.5313e34f.chunk.js.map": "/static/js/453.5313e34f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e62e803b.css",
-    "static/js/main.2d89d939.js"
+    "static/css/main.280cdc2a.css",
+    "static/js/main.84f92a91.js"
   ]
 }
